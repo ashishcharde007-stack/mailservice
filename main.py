@@ -12,6 +12,7 @@ CORS(app, origins=[
     "http://localhost:5173",
     "https://bankingstamenetanalysis.firebaseapp.com",
     "https://bankingstamenetanalysis.web.app",
+    "https://bankie.xyz/"
 ])
 
 GMAIL_USER = os.environ.get("GMAIL_USER")
